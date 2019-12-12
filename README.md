@@ -20,4 +20,7 @@ Discuss security topics for Noobies
 > https://www.hackingarticles.in/ctf-challenges-walkthrough/
 
 **Entire WebApp Pentest course**
-> https://media.licdn.com/dms/image/C561FAQEHrZEItHMYWw/feedshare-document-images_800/1?e=1576213200&v=beta&t=XNtoJyxXnsPf4_CU0Q57Ts0nen6ebqmqtNo3qWlNjuU
+> https://github.com/aravindhseeneevasan/Basics_of_Security/blob/master/0.pdf
+
+
+
