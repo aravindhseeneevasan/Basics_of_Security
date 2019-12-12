@@ -28,7 +28,7 @@
 * thin client protocols are                                                               
  * RDP(remote desktop protocol) and  ICA(Independent Computer Architecture)
 
-##Good Read
+## Good Read
    
 **Basics of Networking**
 > https://commotionwireless.net/docs/cck/networking/learn-networking-basics/
