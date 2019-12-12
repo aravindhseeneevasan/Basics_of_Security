@@ -22,5 +22,9 @@ Discuss security topics for Noobies
 **Entire WebApp Pentest course**
 > https://github.com/aravindhseeneevasan/Basics_of_Security/blob/master/0.pdf
 
+**OSCP Repo**
+> https://github.com/rewardone/OSCPRepo
 
+**All about Security in GitHub**
+> https://github.com/topics/security
 
