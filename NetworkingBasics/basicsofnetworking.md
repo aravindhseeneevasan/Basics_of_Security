@@ -5,8 +5,9 @@
 >is the rules that governs how devices should be communicate with each other
 
 **Network Reference Model?**
-- >OSI-open system interconnection               
-- >DOD -Dept of Defense(TCP/IP)
+>OSI-open system interconnection.
+
+>DOD -Dept of Defense(TCP/IP)
 
 **Network types?**
 >Lan -Under a single administration or the infrastructure for connecting the resources inside a building                
