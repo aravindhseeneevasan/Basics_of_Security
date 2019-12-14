@@ -28,3 +28,5 @@ Discuss security topics for Noobies
 **All about Security in GitHub**
 > https://github.com/topics/security
 
+**Getting started in Bug Bounty**
+> https://medium.com/@ehsahil/getting-started-in-bug-bounty-7052da28445a
