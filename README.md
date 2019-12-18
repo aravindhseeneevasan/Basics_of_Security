@@ -30,3 +30,20 @@ Discuss security topics for Noobies
 
 **Getting started in Bug Bounty**
 > https://medium.com/@ehsahil/getting-started-in-bug-bounty-7052da28445a
+
+**WebApp Muttlidae contributors**
+> irongeek.com (Crenshaw, Irongeek.com, 2013) as a web pen testing
+target for vulnerabilities in the OWASP Top 10.
+
+**Free online WebApp training from the creators of Burp**
+> https://portswigger.net/web-security
+
+**One main problem of WebApp security**
+> The Core Security Problem of web app security: Users Can Submit Arbitrary Input
+
+**XSS Mind Map**
+> https://www.linkedin.com/posts/priya-gbhackers_xsscross-site-scripting-mind-map-cyber-activity-6611217677031702528-BWoQ
+
+**Bug Bounty writeup in Medium**
+> https://medium.com/bugbountywriteup
+
