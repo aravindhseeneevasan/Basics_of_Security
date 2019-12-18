@@ -47,3 +47,5 @@ target for vulnerabilities in the OWASP Top 10.
 **Bug Bounty writeup in Medium**
 > https://medium.com/bugbountywriteup
 
+**In-depth Attack Surface Mapping and Asset Discovery**
+> https://github.com/OWASP/Amass
