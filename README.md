@@ -49,3 +49,6 @@ target for vulnerabilities in the OWASP Top 10.
 
 **In-depth Attack Surface Mapping and Asset Discovery**
 > https://github.com/OWASP/Amass
+
+**Cracking everything with John the ripper**
+>https://bytesoverbombs.io/cracking-everything-with-john-the-ripper-d434f0f6dc1c
