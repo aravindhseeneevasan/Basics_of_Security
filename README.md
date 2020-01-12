@@ -52,3 +52,6 @@ target for vulnerabilities in the OWASP Top 10.
 
 **Cracking everything with John the ripper**
 >https://bytesoverbombs.io/cracking-everything-with-john-the-ripper-d434f0f6dc1c
+
+**oscp guide**
+>https://sushant747.gitbooks.io/total-oscp-guide/bash-scripting.html
