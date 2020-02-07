@@ -58,3 +58,6 @@ target for vulnerabilities in the OWASP Top 10.
 
 **oscp guide**
 >https://sushant747.gitbooks.io/total-oscp-guide/bash-scripting.html
+
+**OSCP command lines must know**
+>https://github.com/Elinpf/OSCP-survival-guide
