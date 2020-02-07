@@ -44,6 +44,9 @@ target for vulnerabilities in the OWASP Top 10.
 **XSS Mind Map**
 > https://www.linkedin.com/posts/priya-gbhackers_xsscross-site-scripting-mind-map-cyber-activity-6611217677031702528-BWoQ
 
+**How to pass OSCP like a BOSS**
+>https://medium.com/@parthdeshani/how-to-pass-oscp-like-boss-b269f2ea99d
+
 **Bug Bounty writeup in Medium**
 > https://medium.com/bugbountywriteup
 
